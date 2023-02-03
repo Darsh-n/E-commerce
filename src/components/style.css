@@ -1,0 +1,71 @@
+
+.popup{
+    width: 24rem;
+    padding: 10;
+    position: relative;
+}
+
+
+.closetag{
+    position: absolute;
+    margin-left: 300px;
+    
+    margin-top: 8px;
+    right: 20;
+    font-size: 23;
+    cursor: pointer;
+}
+
+.p{
+    font-size: 2rem;
+    
+}
+.menuP{
+    margin-top: 40px;
+}
+
+.image{
+    width: 5rem;
+    padding: 10;
+}
+
+.imaged{
+    height: 18rem;
+    cursor: pointer;
+}
+
+.imaged:hover{
+    box-shadow: 0 0 10px 20px rgba(0,0,0,0.1);
+    transition: .2s;
+}
+
+.itemsdetailes {
+
+    display: flex;
+    height: 18rem;
+    max-width: 60rem;
+    margin-block: 30px;
+    
+    align-items: center;
+
+   
+}
+.itemsdetailes:hover{
+    box-shadow: 0 0 10px 20px rgba(0,0,0,0.1);
+    transition: .2s;
+}
+
+.imgCD{
+    height: 18rem;
+}
+
+.detail{
+    margin-left: 40px;
+    
+    
+}
+
+.detailbody{
+    /* margin-inline-start: 150px; */
+    justify-content: center;
+}

@@ -1,0 +1,57 @@
+const CardsData = [
+    {
+        id:1,
+        rname:"Pizza Roti",
+        imgdata:"https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8Zm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        address:"Restorant address",
+        delimg:"https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
+        somedata:"Related information",
+        price:"₹350 for one",
+        rating:"3.8★",
+        arrimg:"https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30d47a31595763089.png?output-format=webp",    
+    },
+    {
+        id:2,
+        rname:"Spicy to eat meal",
+        imgdata:"https://images.unsplash.com/photo-1432139509613-5c4255815697?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDN8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        address:"Restorant address",
+        delimg:"https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
+        somedata:"Related information",
+        price:"₹400 for one",
+        rating:"4.0★",
+        arrimg:"https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30d47a31595763089.png?output-format=webp",
+    },
+    {
+        id:3,
+        rname:"Icee Sweet",
+        imgdata:"https://images.unsplash.com/photo-1488900128323-21503983a07e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGljZSUyMGNyZWFtfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        address:"Restorant address",
+        delimg:"https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
+        somedata:"Related information",
+        price:"₹600 for one",
+        rating:"3.5★",
+        arrimg:"https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30d47a31595763089.png?output-format=webp",    },
+    {
+        id:4,
+        rname:"Vegee Feezi",
+        imgdata:"https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Rk9PRHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        address:"Restorant address",
+        delimg:"https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
+        somedata:"Related information",
+        price:"₹150 for one",
+        rating:"3.8★",
+        arrimg:"https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30d47a31595763089.png?output-format=webp",    },
+    {
+        id:5,
+        rname:"Eat first",
+        imgdata:"https://images.unsplash.com/photo-1534766438357-2b270dbd1b40?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTAwfHxmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        address:"Restorant address",
+        delimg:"https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
+        somedata:"Related information",
+        price:"₹270 for one",
+        rating:"4.2★",
+        arrimg:"https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30d47a31595763089.png?output-format=webp",    },
+
+]
+
+export default CardsData;
